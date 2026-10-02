@@ -1,0 +1,6 @@
+metric_id,metric ,value,source,notes
+M-01,total delinquent account volume,3246,delinquent_accounts_export.csv,"This is a sample, so the actual number is unknown."
+M-02,likely straightforward-case volume,77.23%,delinquent_accounts_export.csv,Percentage of candidates which are potential self-service applicants.
+M-03,admin hours spent on manual work,1153,recovery_activity_tracker.csv,Total hours for 9890 activites
+M-04,missed follow-up rate,12.14%,recovery_activity_tracker.csv,Percentage of activities that had a no_reply outcome code. 
+M-05,current handling effort,25366,Assumptions,Hours spent times hourly rate

@@ -1,0 +1,8 @@
+automation_opportunity_id,automation opportunity,cost/effort in minutes,how anual operating time was calculated ,annual operational time saving,likely recovery uplift or reduced revenue leakage,softer benefits such as visibility or consistency
+AO-01,self-serve balance and arrears view,18.00,"it takes an average of 18 minutes to handle straightforward cases, there are about 2507 of them acording to the delinquent_accounts_export.csv. Convert minutes to pounds using the rep hourly rate.",45126.00,16546.20,Customer satisfation
+AO-01,self-serve balance and arrears view,0.00,"we currently miss about 12% of cases because they are not properly tracked, assuming they make up 12% of the total overdue amount.",0.00,366240.50,
+AO-02,contact detail confirmation or update request,5.00,number of missing elements times 5 times hourly rate,1740.00,638.00,Customer satisfation
+AO-03,digital promise-to-pay capture,4.50,minutes spent on status check times hourly rate,529.00,193.97,Representative benefit
+AO-04,rules-based routing to representatives,7.50,minutes spent on manual plan note times hourly rate,908.00,332.93,Representative benefit
+AO-05,portal interaction history for representatives,9.00,minutes spent on spreadsheet reconciliation times hourly rate,1076.50,394.72,Representative benefit
+AO-06,automated follow-up reminders,8.50,minutes spent on sms and email reminders times hourly rate,991.00,363.37,Customer satisfation and Representative benefit
