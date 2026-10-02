@@ -46,16 +46,6 @@ An audit-proof business case showing that a self-service portal resolves core op
 - What legacy constraints affect implementation effort and rep adoption?
 
 
-## 4. Traceability starter
-
-Create a first-pass table.
-
-| Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable |
-|---|---|---|---|
-| TODO | TODO | TODO | TODO |
-
 ## 5. Final problem statement
 
-End with a concise problem statement in your own words.
-
-> Tip: if your statement still sounds like 'the bank needs digital transformation,' it is too broad.
+Legacy-Trust Bank relies on a team of over 50 representatives managing more than 100,000 delinquent accounts across spreadsheets, email trails, and a 20-year-old collections database. As account volumes have grown, these manual workarounds have hit a breaking point, leading to missed follow-ups, duplicated activity, and inconsistent status updates that directly cause an estimated 15% loss in revenue and inflate operational overhead. How can Legacy-Trust Bank eliminate operational friction and recover lost revenue by automating low-complexity journeys without introducing compliance, technical, or customer experience risks? Validate and approve Phase 1 of a self-service customer portal—supported by Camunda process models, an auditable 12-month ROI business case, and clear human escalation boundaries—to offload routine cases while focusing specialized representatives on high-value recoveries.
