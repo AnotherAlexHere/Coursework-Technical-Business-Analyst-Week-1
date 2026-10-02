@@ -1,0 +1,9 @@
+# Final Recommendation
+
+## Phase 1 Prioritization & Core Rationale
+
+AO-01 (Self-Serve Balance & Arrears View) is the clear priority initiative for Phase 1 delivery. It ranks highest across every quantitative metric, delivering £382.8k in annual total benefit (£297.8k net benefit), a 350.3% 12-month ROI, and a rapid 3.4-month payback period on an £85,000 investment. Its dominant ranking is driven by tackling the largest financial lever—capturing an estimated 12% overdue debt recovery leakage (£366k). It also saves 18 minutes of representative handling time across 2,507 straightforward accounts. Crucially, AO-01 establishes the core customer-facing authentication and ledger-sync portal infrastructure upon which all future digital capabilities depend.
+
+## Deferred Initiatives & Implications for Week 2 Scope
+
+In contrast, AO-02 through AO-06 should be deferred from standalone implementation. Generating annual operational savings of only £194 to £638 each, none can justify an isolated £45,000 delivery cost, resulting in heavy standalone losses (around -£44.5k net benefit and -98% to -100% ROI), with AO-03 further weakened by low confidence in debtor repayment behavior. For Week 2 scope, these results imply that project focus should avoid treating these features as separate workstreams and instead concentrate design and engineering resources entirely on the AO-01 portal foundation. High-synergy items—specifically AO-03 (promise-to-pay capture) and AO-02 (contact detail updates)—should be rescoped purely as incremental, modular add-ons to the AO-01 user journey, while Week 2 planning should also define early pilot metrics to validate the recovery leakage assumptions before full-scale launch.
