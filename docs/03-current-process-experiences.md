@@ -19,6 +19,7 @@ Managers face challenges in overseeing case progress and ensuring timely interve
 Automation can significantly alleviate the administrative burdens faced by frontline representatives and improve overall process efficiency. By integrating systems and automating data entry, representatives can focus on complex, high-value cases rather than repetitive manual tasks. Automated follow-up enforcement ensures timely interventions, reducing the risk of overdue accounts and improving recovery performance. Additionally, real-time visibility into case updates and follow-up schedules can enhance management oversight and accountability, leading to more effective and efficient operations. The SN-XXX identity markers are from the stakeholder_interview_notes.csv indicating the statement that support the identified automation opportunities.
 
 1. Centralization of customer data so that there is a single source of truth for all customer information and interactions. (SN-010, SN-011, SN-036,SN-067,SN-104, SN-111, SN-087)
-2. Automatic notification to customer when they have an upcoming payment or overdue account. (SN-007, SN-023, SN-040, SN-053, SN-078, SN-119)
-3. Automated check of payment and status update to confirm payment went through. 
-4.
+2. Customer history is entirely centralized and accessible, providing a complete view of all interactions and transactions, even when reclassification occurs. (SN-108, SN-036, SN-044, SN-104, SN-112, SN-126)
+3. Automatic notification to customer when they have an upcoming payment or overdue account. (SN-007, SN-023, SN-040, SN-053, SN-078, SN-119)
+4. Automated check of payment and status update to confirm payment went through (not just taking the customer's word for it), accessible to both users and frontline representatives. (SN-044, SN-104, SN-112, SN-126)
+5. Automatic classification of cases based on predefined criteria, ensuring that each case is routed to the appropriate representative for timely intervention. (SN-003, SN-029, SN-057, SN-100, SN-069, SN-079)
